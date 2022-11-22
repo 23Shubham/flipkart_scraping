@@ -1,6 +1,6 @@
 # flipkart_scraping
 
-Scrape flipkart website for avilable laptops to buy and generate a csv file.
+Scrape flipkart website for available laptops to buy and generate a csv file.
 
 Python
 
